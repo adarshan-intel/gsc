@@ -1,0 +1,1 @@
+{% extends "redhat/ubi8-minimal/Dockerfile.sign.template" %}
